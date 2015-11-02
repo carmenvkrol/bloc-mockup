@@ -129,8 +129,8 @@ main img {
 }
 
 .profile-image {
-  height:15vh;
-  width:15vh;
+  height:14vh;
+  width:14vh;
   border-radius:50%;
   overflow:hidden;
   float: left;
@@ -140,15 +140,15 @@ main img {
 /*There are 3 separate classes for profile-image because assumed that there will be 3 different images*/
 
 .profile-image1 {
-  background:url(http://fillmurray.com/1000/1000) no-repeat center;
+  background:url(http://www.fillmurray.com/100/100) no-repeat center;
 }
 
 .profile-image2 {
-  background:url(http://fillmurray.com/1000/1000) no-repeat center;
+  background:url(http://www.fillmurray.com/100/100) no-repeat center;
 }
 
 .profile-image3 {
-  background:url(http://fillmurray.com/1000/1000) no-repeat center;
+  background:url(http://www.fillmurray.com/100/100) no-repeat center;
 }
 
 .profile-text {
