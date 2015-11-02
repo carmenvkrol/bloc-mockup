@@ -24,7 +24,7 @@ Directory Structure
 ```
 bloc-mockup/
  |__css/ #includes client-side style files
- |__fonts/ #includes glyphicon files
+ |__fonts/ #includes icon files
  |__images/ #includes client-side image files
  |__ionicons-2.0.1/ #includes third-party icon files
  Home.html
